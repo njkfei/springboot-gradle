@@ -1,5 +1,5 @@
 # springboot-gradle
-第的第一个gradle工程，抄自springboot官网，从今天开始，将转向基于gradle构建项目。
+本人的第一个gradle工程，抄自springboot官网，从今天开始，将转向基于gradle构建项目。
 因此，这个项目虽然简单，但确是本人的一个里程碑。
 
 ## 关键配置
